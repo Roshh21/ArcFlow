@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pymongo
+passlib[bcrypt]
+torch
+transformers
+text-generation-inference
+motor>=3.4.0
