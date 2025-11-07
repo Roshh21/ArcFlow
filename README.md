@@ -25,9 +25,7 @@ You can choose a **genre** and **mood**, get AI-generated story openings and bra
 | Frontend | React + Vite + TypeScript + TailwindCSS |
 | Backend | Python + FastAPI |
 | AI | Gemini API (Google Generative AI) |
-| Database | MongoDB (Atlas or local) |
-| Auth | JWT-based authentication |
-| Deployment | (Optional) Vercel / Render / Railway |
+| Database | MongoDB|
 
 ---
 
